@@ -1,4 +1,0 @@
-hi i am doing git sample file.
-i m adding some changes.
-heya what are u doing, buddy?
-hello
