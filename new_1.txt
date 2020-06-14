@@ -1,3 +1,1 @@
-this is new file for practise purpose
-adding some chanegs when file is in working directory
-again added some changes in working directory
+this is new file for practise purpose.
