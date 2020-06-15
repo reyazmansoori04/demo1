@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file created for testing purpose
+=======
+test1
+>>>>>>> 270d182747cbe9a60f2234467bf8ea0c360d7e8f
